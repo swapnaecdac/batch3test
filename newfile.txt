@@ -3,3 +3,6 @@ dsfsdgdg
 sgsfgsfg
 sgfsg
 new lines added in local machine
+mamflamf
+newly added data modified
+>>>>>>> 9b17a61ff7719f8a354589aaf488b6396c03b65d
